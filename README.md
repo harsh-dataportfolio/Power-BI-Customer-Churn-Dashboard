@@ -68,7 +68,7 @@ This dashboard visualizes customer churn data to highlight important trends acro
 
 ##  Dashboard Preview
 
-![Telecom Churn Dashboard Preview](Insert_Dashboard_Image_Link_Here)
+![Telecom Churn Dashboard Preview](https://github.com/harsh-dataportfolio/Power-BI-Customer-Churn-Dashboard/blob/main/Customer%20Churn%20Dashboard%20SS.png)
 
 ---
 
